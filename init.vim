@@ -19,5 +19,10 @@ Plug 'https://github.com/neoclide/coc.nvim'
 
 call plug#end()
 
+nnoremap <C-f> :NERDTreeFocus<CR>
+nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+nnoremap <C-l> :UndotreeToggle<CR>
+
 :colorscheme minimalist
 
