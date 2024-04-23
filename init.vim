@@ -18,3 +18,6 @@ Plug 'https://github.com/tc50cal/vim-terminal'
 Plug 'https://github.com/neoclide/coc.nvim'
 
 call plug#end()
+
+:colorscheme minimalist
+
