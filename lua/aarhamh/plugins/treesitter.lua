@@ -16,6 +16,7 @@ return {
       -- ensure these language parsers are installed
       ensure_installed = {
         "json",
+        "astro",
         "javascript",
         "typescript",
         "tsx",
@@ -35,6 +36,11 @@ return {
         "query",
         "vimdoc",
         "c",
+        "c++",
+        "rust",
+        "go",
+        "python",
+        "haskell"
       },
       incremental_selection = {
         enable = true,
