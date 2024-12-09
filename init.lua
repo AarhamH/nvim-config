@@ -1,1 +1,2 @@
-require("aarhamh.core.options")
+require("aarhamh.core")
+require("aarhamh.lazy")
